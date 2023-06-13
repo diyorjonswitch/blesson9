@@ -1,0 +1,13 @@
+{
+  "name": "blesson9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start:watch": "node --watch ./src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
